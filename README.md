@@ -48,6 +48,8 @@ The last step is export dataset for the models:
 
 ### Training process
 
+To see whole project at Google Colab use this [link](https://drive.google.com/drive/folders/19CEliuHigL_UI-C-1a3kBZxQ33aPeO8a?usp=sharing).
+
 So, i trained the models using [Google Colab Notebook](https://colab.research.google.com/drive/12EWzPYnV1RHtnxkSolUANxDg5y_D6C7w?usp=sharing).
 Please, use the link to check my work.
 
