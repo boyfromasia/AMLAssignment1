@@ -60,6 +60,9 @@ Here is the structure of my notebook:
 * First part is training a Faster RCNN model using detectron2
 * Second part is training a Small YOLOv8
 
+*P.S I couldn't upload the trained RCNN model to github, so download it from my Google Colab, please, if you want to check :)*
+
+
 ### Evaluation process
 
 You can find evaluation of these models in my colab notebook.
@@ -86,8 +89,6 @@ Train memory - 7.4GB
 
 
 **Conclusion about the models**: RCNN for my situation give the better result than small YoloV8. As I understand, it occurs, because of their architecture. YOLO has difficulty detecting objects that are small and close to each other. (In my pictures forks and spoons are small and they locate close to each other). Faster RCNN on the other hand, do detect small objects well.
-
-
 
 
 
