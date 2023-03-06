@@ -72,6 +72,7 @@ Number of iterations - 1500
 Time of execution -  0:50:32
 mAP@50 - 0.920
 Image size - 416x416
+Train memory - 6.7GB
 
 
 ## YoloV8 small
@@ -80,6 +81,7 @@ Number of epochs - 100
 Time of execution - 0:51:00
 mAP@50 - 0.738
 Image size - 640x640
+Train memory - 7.4GB
 ```
 
 
