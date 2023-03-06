@@ -28,6 +28,7 @@ Example of the photo:
 ### 2. Using Roboflow I annotated them. 
 
 Example of the photo: 
+
 <img src="screenshots/with_annotating.jpg" width="400" height="400" />
 
 After I used Augmentation:
