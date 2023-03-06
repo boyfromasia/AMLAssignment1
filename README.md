@@ -68,6 +68,15 @@ Here is the structure of my notebook:
 You can find evaluation of these models in my colab notebook.
 All the graphs also included in the notebook.
 
+Example Faster RCNN on test image:
+
+<img src="screenshots/rcnn.png" width="400" height="400" />
+
+Example Faster Small YOLOv8 on test image:
+
+<img src="screenshots/yolo.jpeg" width="400" height="400" />
+
+
 ```
 ## Faster RCNN
 
